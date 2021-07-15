@@ -26,7 +26,7 @@
     "@nestjs/graphql": "^8.0.2",
     "@nestjs/platform-fastify": "^8.0.2",
     "mercurius": "^8.0.0",
-    "nestjs-mercurius": "^0.20.0",
+    "nestjs-mercurius": "j/nestjs-mercurius#npm-dep-fix-tmp",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0"
